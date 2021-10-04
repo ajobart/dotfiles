@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jobart.pro@gmail.com
+	name = Alexis Jobart
